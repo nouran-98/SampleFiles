@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+   <header creationtool="cleversotool" creationtoolversion="2.0" segtype="sentence" o-tmf="cleverso" srclang="en" creationdate="2025-04-16 12:32:39">
+      <prop type="name">new empty</prop>
+   </header>
+   <body>
+      <tu tuid="1">
+         <tuv xml:lang="en">
+            <prop type="context_prev"></prop>
+            <prop type="context_next"></prop>
+            <seg>Upon completion of this level, you can understand and use familiar everyday expressions and very basic phrases.</seg>
+         </tuv>
+         <tuv xml:lang="ar" creationdate="" changedate="">
+            <prop type="client">1664</prop>
+            <prop type="project"></prop>
+            <prop type="created_by"></prop>
+            <prop type="modified_by">3205</prop>
+            <prop type="linguist">AdminTest</prop>
+            <prop type="filename">new empty</prop>
+            <seg>xx</seg>
+         </tuv>
+      </tu>
+      <tu tuid="10">
+         <tuv xml:lang="en">
+            <prop type="context_prev"></prop>
+            <prop type="context_next"></prop>
+            <seg>for social, academic, and professional purposes.</seg>
+         </tuv>
+         <tuv xml:lang="ar" creationdate="" changedate="">
+            <prop type="client">1664</prop>
+            <prop type="project"></prop>
+            <prop type="created_by"></prop>
+            <prop type="modified_by">3205</prop>
+            <prop type="linguist">AdminTest</prop>
+            <prop type="filename">new empty</prop>
+            <seg>tتستستست تستستت تستست تتستس تسست</seg>
+         </tuv>
+      </tu>
+      <tu tuid="2">
+         <tuv xml:lang="en">
+            <prop type="context_prev"></prop>
+            <prop type="context_next"></prop>
+            <seg>(e.g. very basic personal and family information, shopping, local geography, employment).</seg>
+         </tuv>
+         <tuv xml:lang="ar" creationdate="" changedate="">
+            <prop type="client">1664</prop>
+            <prop type="project"></prop>
+            <prop type="created_by"></prop>
+            <prop type="modified_by">3205</prop>
+            <prop type="linguist">AdminTest</prop>
+            <prop type="filename">new empty</prop>
+            <seg>tt</seg>
+         </tuv>
+      </tu>
+      <tu tuid="3">
+         <tuv xml:lang="en">
+            <prop type="context_prev"></prop>
+            <prop type="context_next"></prop>
+            <seg>encountered in work, school, leisure, etc. You can deal with most situations likely to arise whilst travelling in an area</seg>
+         </tuv>
+         <tuv xml:lang="ar" creationdate="" changedate="">
+            <prop type="client">1664</prop>
+            <prop type="project"></prop>
+            <prop type="created_by"></prop>
+            <prop type="modified_by">3205</prop>
+            <prop type="linguist">AdminTest</prop>
+            <prop type="filename">new empty</prop>
+            <seg>rr</seg>
+         </tuv>
+      </tu>
+      <tu tuid="4">
+         <tuv xml:lang="en">
+            <prop type="context_prev"></prop>
+            <prop type="context_next"></prop>
+            <seg>including technical discussions in your field of specialisation. You can interact with a degree of fluency and</seg>
+         </tuv>
+         <tuv xml:lang="ar" creationdate="" changedate="">
+            <prop type="client">1664</prop>
+            <prop type="project"></prop>
+            <prop type="created_by"></prop>
+            <prop type="modified_by">3205</prop>
+            <prop type="linguist">AdminTest</prop>
+            <prop type="filename">new empty</prop>
+            <seg>a</seg>
+         </tuv>
+      </tu>
+      <tu tuid="5">
+         <tuv xml:lang="en">
+            <prop type="context_prev"></prop>
+            <prop type="context_next"></prop>
+            <seg>advantages and disadvantages of various options. You are ready for the Zertifikat Deutsch für den Beruf (</seg>
+         </tuv>
+         <tuv xml:lang="ar" creationdate="" changedate="">
+            <prop type="client">1664</prop>
+            <prop type="project"></prop>
+            <prop type="created_by"></prop>
+            <prop type="modified_by">3205</prop>
+            <prop type="linguist">AdminTest</prop>
+            <prop type="filename">new empty</prop>
+            <seg>r</seg>
+         </tuv>
+      </tu>
+      <tu tuid="6">
+         <tuv xml:lang="en">
+            <prop type="context_prev"></prop>
+            <prop type="context_next"></prop>
+            <seg>Completing this level means you can understand a wide range of demanding, longer texts, and recognise implicit meaning.</seg>
+         </tuv>
+         <tuv xml:lang="ar" creationdate="" changedate="">
+            <prop type="client">1664</prop>
+            <prop type="project"></prop>
+            <prop type="created_by"></prop>
+            <prop type="modified_by">3205</prop>
+            <prop type="linguist">AdminTest</prop>
+            <prop type="filename">new empty</prop>
+            <seg>r</seg>
+         </tuv>
+      </tu>
+      <tu tuid="7">
+         <tuv xml:lang="en">
+            <prop type="context_prev"></prop>
+            <prop type="context_next"></prop>
+            <seg>Reaching the end of this level you have shown that you can easily understand virtually everything heard or read. You can summarise </seg>
+         </tuv>
+         <tuv xml:lang="ar" creationdate="" changedate="">
+            <prop type="client">1664</prop>
+            <prop type="project"></prop>
+            <prop type="created_by"></prop>
+            <prop type="modified_by"></prop>
+            <prop type="linguist">undefined</prop>
+            <prop type="filename">new empty</prop>
+            <seg>تتتتستتستت</seg>
+         </tuv>
+      </tu>
+      <tu tuid="9">
+         <tuv xml:lang="en">
+            <prop type="context_prev"></prop>
+            <prop type="context_next"></prop>
+            <seg>You can express yourself spontaneously, very fluently</seg>
+         </tuv>
+         <tuv xml:lang="ar" creationdate="" changedate="">
+            <prop type="client">1664</prop>
+            <prop type="project"></prop>
+            <prop type="created_by"></prop>
+            <prop type="modified_by">3262</prop>
+            <prop type="linguist">nouran pm</prop>
+            <prop type="filename">new empty</prop>
+            <seg>hello</seg>
+         </tuv>
+      </tu>
+      <tu tuid="PGSrPpYBPgtqELRJmjKr">
+         <tuv xml:lang="en">
+            <prop type="context_prev"></prop>
+            <prop type="context_next"></prop>
+            <seg></seg>
+         </tuv>
+         <tuv xml:lang="ar" creationdate="" changedate="">
+            <prop type="client">1664</prop>
+            <prop type="project"></prop>
+            <prop type="created_by"></prop>
+            <prop type="modified_by"></prop>
+            <prop type="linguist">undefined</prop>
+            <prop type="filename">new empty</prop>
+            <seg></seg>
+         </tuv>
+      </tu>
+   </body>
+</tmx>
